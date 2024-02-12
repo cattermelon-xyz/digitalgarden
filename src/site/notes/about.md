@@ -7,6 +7,8 @@ Version 2
 My company, SyncVote, is developing software to help *stakeholders* have peace of mind in *collaborating* with an [[operating system\|operating system]] for digital organisations.
 We compete in the growing *[[digital organisations\|digital organisations]]* market.
 We are complements to a group of software like [[Snapshot, Tally, Gnosis Safe,  Realms and Squads\|Snapshot, Tally, Gnosis Safe,  Realms and Squads]] [[Trello and Jira\|Trello and Jira]], but we understand the [[nature of an organisation\|nature of an organisation]] and build workflow instead of the single checkpoint.
+
+
 Version 1
 ---
 My company, SyncVote, is developing software to help *stakeholders* have peace of mind in *collaborating* with *on-chain workflow*
