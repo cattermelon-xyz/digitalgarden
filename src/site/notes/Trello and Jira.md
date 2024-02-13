@@ -16,3 +16,7 @@ Each card in Trello represent a "mission" in SyncVote, each has a history of dec
 The reason why I think Jira is similar to SyncVote because it has a very similar workflow editor
 ![Pasted image 20240212140306.png](/img/user/images/Pasted%20image%2020240212140306.png)
 However, neither Trello and Jira enable a global-scale cooperation that SyncVote aims at through the immutable and transparency nature of Blockchain.
+
+There are few others that related to this concept:
+- Airtable
+- Zappier
