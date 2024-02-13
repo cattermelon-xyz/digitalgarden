@@ -11,7 +11,7 @@ Let's go through business platforms that have defined the Internet for the last 
 Look at that platform and ask yourself whether they can thrive serving old ones.
 
 ### Build a new generation of influencers
-The forever-lasting need of this business is: As a human being, we always need someone to follow, to set an example for what choices we should make in life. The traditional business of this trench is Religion. The Ten Commandments is not very far fetch from a KOL product review.
+The forever-lasting need of this business is: As a human being, we always need someone to follow, to set an example for what choices we should make in life. The traditional business of this trench is Religion. The Ten Commandments is not very far fetch from KOL's reel list.
 With the difference in medium, we have a few different businesses:
 - Short text: Facebook, Twitter
 - Long-form article: Medium, Substack
