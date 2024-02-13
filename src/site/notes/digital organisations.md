@@ -4,6 +4,7 @@
 
 With the popularity of the Internet, people can already collaborate across borders.
 What is the goal of an organisation? [[role of organisation\|role of organisation]]
+What is the nature of an organisation? [[nature of an organisation\|nature of an organisation]]
 
 A digital organization is an entity that has fully embraced digital technologies and leverages them strategically across its operations, processes, and interactions. Digital transformation involves integrating digital technologies into all aspects of an organization, fundamentally changing how it operates and delivers value to its customers and stakeholders. A digital organization typically exhibits the following characteristics:
 
