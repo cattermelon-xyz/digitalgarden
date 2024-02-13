@@ -9,6 +9,18 @@
     {% for imp in dynamics.index.head %}
       {% include imp %}
     {% endfor %}
+    <script>
+      window.embeddedChatbotConfig = {
+        chatbotId: "piwZI2-xIp5J5fBlud2og",
+        domain: "www.chatbase.co"
+      }
+    </script>
+    <script
+      src="https://www.chatbase.co/embed.min.js"
+      chatbotId="piwZI2-xIp5J5fBlud2og"
+      domain="www.chatbase.co"
+      defer>
+    </script>
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
