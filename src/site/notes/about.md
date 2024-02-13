@@ -17,4 +17,4 @@ My company, SyncVote, is developing software to help *stakeholders* have peace o
 We compete in the growing *DAO market, which was a 35 bn treasury market last year.
 We are similar to [[Trello and Jira\|Trello and Jira]] but we are blockchain native
 
-June 2013: a [mock press release]([[press release 1\|press release 1]]) for Syncvote
+June 2013: [[press release 1\|press release 1]] for Syncvote
