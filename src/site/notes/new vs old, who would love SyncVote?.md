@@ -57,3 +57,5 @@ Identifying who wants to build organisations and help them thrive is my playbook
 However, the challenges I face are unprecedented since the KPI for a successful organisation is unclear.
 In Edumall and Upinus, it was the GMV of the educators and retailers. **Hypothetically, the KPI for a leader can be the treasury size and the quantity and quality of members.**
 That may be why working with established DAOs is not helping since I am helping them with none of the KPIs!
+
+Follow this train of thought, [[Build tool for meme builder\|Build tool for meme builder]] might be a good idea
