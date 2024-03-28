@@ -11,7 +11,9 @@ We are complements to a group of software like [[Snapshot, Tally, Gnosis Safe,  
 This is an overview of [[customers and value proposition\|customers and value proposition]] and discussion on who love to use SyncVote [[new vs old, who would love SyncVote?\|new vs old, who would love SyncVote?]]
 What Trello, Jira or any other collaboration is doing it wrong? read [[what collaboration tools are doing wrong?\|what collaboration tools are doing wrong?]]
 
+
 A side note: I am heavily influenced by the series American Gods.
+
 Version 1
 ---
 My company, SyncVote, is developing software to help *stakeholders* have peace of mind in *collaborating* with *on-chain workflow*

@@ -9,5 +9,6 @@ src/site/styles/_theme.*.css
 .idea/
 .vercel
 .cache
+.evn
 _site/
 **/.DS_Store
